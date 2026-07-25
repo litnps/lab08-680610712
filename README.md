@@ -1,4 +1,4 @@
-# Lab 07 - Student API (API #1)
+# Lab 08 - Student API (API #2)
 
 ### ป้อนข้อมูลนักศึกษา
 
@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ลลิตนภัส ปะสะสุข
 
-Vercel URL : https://lab08-680610712-roduadsdv-temp404.vercel.app/
+Vercel URL : https://lab08-680610712.vercel.app/
 
 ---
 
